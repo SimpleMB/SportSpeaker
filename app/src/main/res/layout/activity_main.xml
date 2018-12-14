@@ -21,8 +21,8 @@
             android:id="@+id/imgBoxing"
             android:layout_width="150dp"
             android:layout_height="150dp"
+            android:contentDescription="@string/boxing_image"
             android:scaleType="fitCenter"
-            android:tag="boxing"
             app:layout_columnWeight="1"
             app:layout_rowWeight="1"
             app:srcCompat="@drawable/boxing" />
@@ -31,8 +31,8 @@
             android:id="@+id/imgKickboxing"
             android:layout_width="150dp"
             android:layout_height="150dp"
+            android:contentDescription="@string/kickboxing_image"
             android:scaleType="fitCenter"
-            android:tag="kickboxing"
             app:layout_columnWeight="1"
             app:layout_rowWeight="1"
             app:srcCompat="@drawable/kickboxing" />
@@ -41,8 +41,8 @@
             android:id="@+id/imgJudo"
             android:layout_width="150dp"
             android:layout_height="150dp"
+            android:contentDescription="@string/judo_image"
             android:scaleType="fitCenter"
-            android:tag="judo"
             app:layout_columnWeight="1"
             app:layout_rowWeight="1"
             app:srcCompat="@drawable/judo" />
@@ -51,8 +51,8 @@
             android:id="@+id/imgKarate"
             android:layout_width="150dp"
             android:layout_height="150dp"
+            android:contentDescription="@string/karate_image"
             android:scaleType="fitCenter"
-            android:tag="karate"
             app:layout_columnWeight="1"
             app:layout_rowWeight="1"
             app:srcCompat="@drawable/karate" />
@@ -61,8 +61,8 @@
             android:id="@+id/imgAikido"
             android:layout_width="150dp"
             android:layout_height="150dp"
+            android:contentDescription="@string/aikido_image"
             android:scaleType="fitCenter"
-            android:tag="aikido"
             app:layout_columnWeight="1"
             app:layout_rowWeight="1"
             app:srcCompat="@drawable/aikido" />
@@ -71,8 +71,8 @@
             android:id="@+id/imgTeakwondo"
             android:layout_width="150dp"
             android:layout_height="150dp"
+            android:contentDescription="@string/taekwondo_image"
             android:scaleType="fitCenter"
-            android:tag="teakwondo"
             app:layout_columnWeight="1"
             app:layout_rowWeight="1"
             app:srcCompat="@drawable/taekwondo" />

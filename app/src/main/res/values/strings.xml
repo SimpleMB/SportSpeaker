@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">SportSpeaker</string>
+    <string name="boxing_image">Boxing image</string>
+    <string name="kickboxing_image">Kickboxing image</string>
+    <string name="judo_image">judo image</string>
+    <string name="karate_image">karate image</string>
+    <string name="aikido_image">aikido image</string>
+    <string name="taekwondo_image">taekwondo image</string>
 </resources>
